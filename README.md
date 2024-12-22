@@ -15,3 +15,9 @@ This is a Streamlit-based web application that uses OpenAI's GPT API to fetch an
 - Streamlit
 - OpenAI GPT-3.5 API
 - Pandas
+
+## Example
+
+![Screenshot (388)](https://github.com/user-attachments/assets/08b034f5-36bb-4277-94d4-91962781a404)
+![Screenshot (390)](https://github.com/user-attachments/assets/381a1e12-acd2-4f8f-af70-09bd848f1317)
+![Screenshot (391)](https://github.com/user-attachments/assets/d2b30f70-53d9-42b9-9dda-ee8af91e99d2)
